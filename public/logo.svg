@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="105" viewBox="0 0 300 105">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 62px;
+        fill: #ffe;
+        font-family: "Commodore 64";
+      }
+    </style>
+  </defs>
+  <text id="TasK64" class="cls-1" x="1.771" y="75.8">TasK64</text>
+  <text id="Lorem_Ipsum" data-name="Lorem Ipsum" class="cls-1" x="464.877" y="127.853">Lorem Ipsum</text>
+</svg>
